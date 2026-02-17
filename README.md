@@ -146,13 +146,6 @@ SmartORT is a comprehensive solution combining a powerful Android mobile app wit
 - **Background Tasks:** WorkManager + Foreground Services
 - **Maps:** MapLibre for offline support
 
-### Backend Server
-- **Framework:** FastAPI (Python)
-- **Database:** JSON-based (easily upgradeable to PostgreSQL/MySQL)
-- **Authentication:** Token-based with device fingerprinting
-- **Storage:** Local file system (S3-compatible)
-- **Deployment:** Cloud or on-premise
-
 ### Admin Dashboard
 - **Technology:** Web-based (HTML/CSS/JavaScript)
 - **Maps:** Interactive location visualization
